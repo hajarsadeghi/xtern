@@ -21,7 +21,7 @@ At the end, I save the related data into two spreadsheets called Data.excel and 
 Also, I visualized a simple linear plan plot that has the time of visit on the x axis and the locations on the y axis.
 
 
-##NOTES
+## NOTES
 If I had more time, I did like to make different plans for interns with different interests, and that's why I got the data for different locations such as stadium, church, etc.
 
 Moreover, we could plot a more complicated plot that contains a map with different destinations and routs; but again, my time was limited.
