@@ -24,6 +24,6 @@ Also, I visualized a simple linear plan plot that has the time of visit on the x
 ## NOTES
 If I had more time, I did like to make different plans for interns with different interests, and that's why I got the data for different locations such as stadium, church, etc.
 
-Moreover, we could plot a more complicated plot that contains a map with different destinations and routs; but again, my time was limited.
+Moreover, we could visualize a more complicated plot that contains a map with different destinations and routes; but again, my time was limited.
 
 Also, Google does not share the visiting time or busy time details for locations in their APIs, and that's why I used constants as visiting times; but if other APIs are available we could add that to the code, and the plan could change.
